@@ -108,9 +108,9 @@ ul li a:hover{
 .icon-bar {
   position: fixed;
   top: 50%;
-  -webkit-transform: translateX(3000%);
-  -ms-transform: translateX(3000%);
-  transform: translateX(3000%);
+  -webkit-transform: translateX(3150%);
+  -ms-transform: translateX(3120%);
+  transform: translateX(3120%);
 }
 
 /* Style the icon bar links */
@@ -141,17 +141,42 @@ ul li a:hover{
   text-decoration:none;
 }
 
-.google {
-  background: #dd4b39;
-  color: white;
+footer {
+
+	height: 80px;
+	padding-top: 30px;
+	text-align: center;
+	background-color: #1e272e;
+	border-top: 2px solid #AAA;
+
+
 }
 
-.linkedin {
-  background: #007bb5;
-  color: white;
+section {
+
+	background-color: #C5C5C5;
+
 }
 
-.youtube {
-  background: #bb0000;
-  color: white;
+.pre h2 {
+
+	
+	background-color: #FFF;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+	text-align: center;
+	padding: 25px;
+
+} 
+
+p{
+
+	width: 90%;
+	padding:10px;
+ 	margin:auto;
+
+
+
 }
+
